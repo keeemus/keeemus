@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi guys, I'm keeemus🤓
+
+I just want to be a person who changes the world wiht data
+and I believe I'll be the one.
+
+
+
 
 <!--
 **keeemus/keeemus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
