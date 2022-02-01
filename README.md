@@ -14,21 +14,21 @@ especially interested in bio healthcare, education and sports industry.
 
 <h3 align="center"><b>Data Science</b></h3>
 <h3 align="center">
-<img src ="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/> &nbsp
-<img src ="https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white"/> &nbsp
-<img src ="https://img.shields.io/badge/numpy-013243.svg?&style=flat-square&logo=numpy&logoColor=white"/> &nbsp
+<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> &nbsp
+<img src ="https://img.shields.io/badge/Pandas-150458.svg?&style=flat-square&logo=Pandas&logoColor=white"/> &nbsp
+<img src ="https://img.shields.io/badge/NumPy-013243.svg?&style=flat-square&logo=NumPy&logoColor=white"/> &nbsp
 <img src ="https://img.shields.io/badge/scikit learn-F7931E.svg?&style=flat-square&logo=scikit learn&logoColor=white"/> &nbsp
 <img src ="https://img.shields.io/badge/seaborn-black.svg?&style=flat-square&logo=seaborn&logoColor=white"/> &nbsp
-<img src ="https://img.shields.io/badge/matplotlib-black.svg?&style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Matplotlib-black.svg?&style=flat-square&logo=Matplotlib&logoColor=white"/>
 
 </p>
 
 <h3 align="center"><b>Data Engineering</b></h3>
 <h3 align="center">
-<img src ="https://img.shields.io/badge/sqlite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white"/> &nbsp
-<img src ="https://img.shields.io/badge/postgreSQL-4169E1.svg?&style=flat-square&logo=postgreSQL&logoColor=white"/> &nbsp
-<img src ="https://img.shields.io/badge/mongoDB-47A248.svg?&style=flat-square&logo=mongoDB&logoColor=white"/> &nbsp
-<img src ="https://img.shields.io/badge/docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white"/>
+<img src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=SQLite&logoColor=white"/> &nbsp
+<img src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=PostgreSQL&logoColor=white"/> &nbsp
+<img src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/> &nbsp
+<img src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
   
