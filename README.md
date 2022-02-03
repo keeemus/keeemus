@@ -5,7 +5,7 @@ I just want to be a person who changes the world with data and I believe I'll be
 especially interested in bio healthcare, education and sports industry.
 #
 ### Experiences
-- Dong-A Pharmaceutical's Sports Science Team(internship) 2020. 4. 9. ~ 2020. 12. 18.
+- Dong-A otsuka Sports Science Team(internship) 2020. 4. 9. ~ 2020. 12. 18.
 - Codestates AI Bootcamp 2021. 7. 8. ~ 2022. 1.27.
 #
 <details>
